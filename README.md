@@ -12,4 +12,4 @@
 
 ## Page 3 - Regions
 
-![image](https://github.com/Patrick-Bacza/MavenMarket_Report/assets/120348192/2555cf92-3748-46b5-9606-412c18f47511)
+![image](https://github.com/Patrick-Bacza/MavenMarket_Report/assets/120348192/0c4a0146-4335-457f-b750-dbd148d6305c)
